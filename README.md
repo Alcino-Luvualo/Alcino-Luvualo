@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋🏽, Eu sou o Alcino Luvualo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Desenvolvedor+de+Software+💻;Apaixonado+por+tecnologia+e+inovação;Sempre+aprendendo+algo+novo+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Desenvolvedor+de+Software+💻;Sempre+aprendendo+algo+novo+📚" alt="Typing SVG" />
 </p>
 
 
