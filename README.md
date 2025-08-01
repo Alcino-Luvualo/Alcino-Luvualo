@@ -9,7 +9,7 @@
 
 ### 💻 Sobre mim
 
-Desenvolvedor de Software desde 2024, com experiência em tecnologias como **JavaScript, React.js, Ruby, HTML, CSS e jQuery**.  
+Desenvolvedor de Software desde 2024, com experiência em tecnologias como **JavaScript, React.js, HTML, CSS e jQuery**.  
 Durante o ensino médio, participei do desenvolvimento de uma plataforma de autoajuda voltada para mulheres, demonstrando meu compromisso com a criação de soluções digitais que geram impacto positivo.  
 Sou movido por desafios, aprendizado constante e gosto de colaborar com projetos inovadores que contribuem para minha evolução e para o bem coletivo.
 
