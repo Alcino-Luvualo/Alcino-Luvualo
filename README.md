@@ -25,8 +25,6 @@ Sou movido por desafios, aprendizado contínuo e pela construção de soluções
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-black?style=flat-square&logo=ibmcloud)
 
-📚 Atualmente aprendendo: ![React.js](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-
 ---
 
 ### 📈 GitHub Stats
