@@ -29,15 +29,21 @@ Sou movido por desafios, aprendizado contínuo e pela construção de soluções
 
 ### 📈 GitHub Stats
 
+<div align="center">
+
 <table>
   <tr>
-    <td>
+    <td style="padding: 0 15px;">
       <img src="https://github-readme-stats.vercel.app/api?username=Alcino-Luvualo&show_icons=true&theme=tokyonight" alt="Alcino's GitHub stats"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alcino-Luvualo&layout=compact&theme=tokyonight" />
+    <td style="padding: 0 15px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alcino-Luvualo&layout=compact&theme=tokyonight" alt="Top languages"/>
     </td>
   </tr>
+</table>
+
+</div>
+
 </table>
 
 ---
