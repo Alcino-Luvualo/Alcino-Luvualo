@@ -45,10 +45,15 @@ I am driven by challenges, continuous learning, and building solutions that real
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Alcino-Luvualo&show_icons=true&theme=tokyonight" alt="Alcino's GitHub stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Alcino-Luvualo&show_icons=true&theme=tokyonight" alt="Alcino's GitHub stats" width='500px'/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alcino-Luvualo&layout=compact&theme=tokyonight" alt="GitHub stats Top Language"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alcino-Luvualo&layout=compact&theme=tokyonight" alt="GitHub stats Top Language" width='400px'/>
+    </td>
+    <td>
+      <p align="right">
+        <img src="https://api.boot.dev/v1/users/public/621ff599-e223-4a95-9fac-ed85a1a8f1ec/thumbnail" width='400px' >
+    </p>
     </td>
   </tr>
 </table>
