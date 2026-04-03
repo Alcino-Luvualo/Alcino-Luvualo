@@ -65,8 +65,8 @@ Software developer dedicated to designing and implementing scalable digital solu
 
 ### 🌟 Featured Projects
 
-- [HelpDesk](http://helpdesk-three-rho.vercel.app)
-- [Tuuri](https://tuuri.vercel.app/)
+- [HelpDesk Backend](https://github.com/Alcino-Luvualo/HelpDesk-Backend)
+- [Alquimia](https://u-topico.vercel.app/)
 - [BiteOrder](https://biteorder.netlify.app/)
 ---
 
